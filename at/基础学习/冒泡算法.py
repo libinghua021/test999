@@ -3,6 +3,7 @@ lenth = len(nums)
 # count=0
 # swap=0
 # print(lenth)
+print((lenth))
 for i in range(lenth):
     # flag = True
     for j in range(lenth-1-i):
